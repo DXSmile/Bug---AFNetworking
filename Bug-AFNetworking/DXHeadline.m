@@ -11,10 +11,10 @@
 
 @implementation DXHeadline
 
-// 快速创建数据模型
+
 + (instancetype)headlineWithDcit:(NSDictionary *)dict {
     DXHeadline *headline = [[self alloc] init];
-    
+
     [headline setValuesForKeysWithDictionary:dict];
     
     return headline;
@@ -40,11 +40,8 @@
         if (successBlock) {
             successBlock(mArray.copy);
         }
-        
-        
-        
+
     } failure:^(NSURLSessionDataTask * _Nullable task, NSError * _Nonnull error) {
-        //NSLog(@"%@", error);
         // 错误的回调
         if (errorBlock) {
             errorBlock(error);

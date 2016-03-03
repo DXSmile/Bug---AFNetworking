@@ -1,18 +1,18 @@
 //
-//  JS_______UITests.m
-//  Bug - AFNetwroking UITests
+//  Bug_AFNetworkingUITests.m
+//  Bug-AFNetworkingUITests
 //
-//  Created by DXSmile on 16/3/3.
+//  Created by xiongdexi on 16/3/4.
 //  Copyright © 2016年 DXSmile. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface JS_______UITests : XCTestCase
+@interface Bug_AFNetworkingUITests : XCTestCase
 
 @end
 
-@implementation JS_______UITests
+@implementation Bug_AFNetworkingUITests
 
 - (void)setUp {
     [super setUp];

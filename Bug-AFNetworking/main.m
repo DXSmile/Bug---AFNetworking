@@ -1,8 +1,8 @@
 //
 //  main.m
-//  Bug - AFNetwroking 
+//  Bug-AFNetworking
 //
-//  Created by DXSmile on 16/3/3.
+//  Created by xiongdexi on 16/3/4.
 //  Copyright © 2016年 DXSmile. All rights reserved.
 //
 

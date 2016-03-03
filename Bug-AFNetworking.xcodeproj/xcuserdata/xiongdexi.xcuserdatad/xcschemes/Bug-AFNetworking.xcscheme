@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7FA2F8A81C883AE2001A57D3"
-               BuildableName = "Bug - AFNetwroking .app"
-               BlueprintName = "Bug - AFNetwroking "
-               ReferencedContainer = "container:Bug - AFNetwroking .xcodeproj">
+               BlueprintIdentifier = "7FA2F9441C8899CE001A57D3"
+               BuildableName = "Bug-AFNetworking.app"
+               BlueprintName = "Bug-AFNetworking"
+               ReferencedContainer = "container:Bug-AFNetworking.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7FA2F8C11C883AE2001A57D3"
-               BuildableName = "Bug - AFNetwroking .xctest"
-               BlueprintName = "Bug - AFNetwroking Tests"
-               ReferencedContainer = "container:Bug - AFNetwroking .xcodeproj">
+               BlueprintIdentifier = "7FA2F95D1C8899CE001A57D3"
+               BuildableName = "Bug-AFNetworkingTests.xctest"
+               BlueprintName = "Bug-AFNetworkingTests"
+               ReferencedContainer = "container:Bug-AFNetworking.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7FA2F8CC1C883AE2001A57D3"
-               BuildableName = "Bug - AFNetwroking .xctest"
-               BlueprintName = "Bug - AFNetwroking UITests"
-               ReferencedContainer = "container:Bug - AFNetwroking .xcodeproj">
+               BlueprintIdentifier = "7FA2F9681C8899CE001A57D3"
+               BuildableName = "Bug-AFNetworkingUITests.xctest"
+               BlueprintName = "Bug-AFNetworkingUITests"
+               ReferencedContainer = "container:Bug-AFNetworking.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7FA2F8A81C883AE2001A57D3"
-            BuildableName = "Bug - AFNetwroking .app"
-            BlueprintName = "Bug - AFNetwroking "
-            ReferencedContainer = "container:Bug - AFNetwroking .xcodeproj">
+            BlueprintIdentifier = "7FA2F9441C8899CE001A57D3"
+            BuildableName = "Bug-AFNetworking.app"
+            BlueprintName = "Bug-AFNetworking"
+            ReferencedContainer = "container:Bug-AFNetworking.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7FA2F8A81C883AE2001A57D3"
-            BuildableName = "Bug - AFNetwroking .app"
-            BlueprintName = "Bug - AFNetwroking "
-            ReferencedContainer = "container:Bug - AFNetwroking .xcodeproj">
+            BlueprintIdentifier = "7FA2F9441C8899CE001A57D3"
+            BuildableName = "Bug-AFNetworking.app"
+            BlueprintName = "Bug-AFNetworking"
+            ReferencedContainer = "container:Bug-AFNetworking.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7FA2F8A81C883AE2001A57D3"
-            BuildableName = "Bug - AFNetwroking .app"
-            BlueprintName = "Bug - AFNetwroking "
-            ReferencedContainer = "container:Bug - AFNetwroking .xcodeproj">
+            BlueprintIdentifier = "7FA2F9441C8899CE001A57D3"
+            BuildableName = "Bug-AFNetworking.app"
+            BlueprintName = "Bug-AFNetworking"
+            ReferencedContainer = "container:Bug-AFNetworking.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
